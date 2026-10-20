@@ -1,0 +1,4 @@
+interface:
+  display_name: "知识卡片生成器"
+  short_description: "将文章或本地文本提炼为可靠、精简、去重且忠于原文的知识卡片"
+  default_prompt: "Use $make-knowledge-cards to turn this article into concise knowledge cards."
